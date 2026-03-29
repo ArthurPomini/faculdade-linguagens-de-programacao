@@ -1,0 +1,16 @@
+# Compilados (Executáveis)
+*.exe
+*.out
+*.app
+
+# Objetos e bibliotecas
+*.o
+*.a
+*.so
+
+# Pastas do VS Code (Configurações locais de debug)
+.vscode/
+
+# Logs e arquivos temporários
+*.log
+tmp/
