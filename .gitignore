@@ -11,6 +11,7 @@ output/
 
 # Pastas do VS Code (Configurações locais de debug)
 .vscode/
+*.code-workspace
 
 # Logs e arquivos temporários
 *.log
